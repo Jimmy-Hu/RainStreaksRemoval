@@ -1,4 +1,4 @@
-# VideoRaindropRemoval project
+# RainStreaksRemoval project
 
 Remove raindrop in video.
 
