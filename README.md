@@ -1,6 +1,6 @@
 # RainStreaksRemoval project
 
-Remove raindrop in video.
+Remove rain streaks in still images / video.
 
 ## Experimental Results
 
