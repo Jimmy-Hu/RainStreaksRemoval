@@ -5,3 +5,4 @@ set(groot,'defaultFigureVisible','on');
 
 [NetInput, NetDesiredOutput] = rainTrain4DArrayDataAll;
 
+%{
