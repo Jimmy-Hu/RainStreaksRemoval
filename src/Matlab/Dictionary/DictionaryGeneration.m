@@ -20,3 +20,5 @@ DataIndex 10: from 720001 to 800000
 
 for i = 1:10
     disp(['DataIndex ' num2str(i) ': from ' num2str((i - 1) * 80000 + 1) ' to ' num2str((i) * 80000)]);
+end
+
