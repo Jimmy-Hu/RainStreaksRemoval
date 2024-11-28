@@ -23,3 +23,4 @@ for i = 1:10
 end
 
 %dataStartIndex = 95040;            %   80%
+dataStartIndex = 120001;            %   50%
