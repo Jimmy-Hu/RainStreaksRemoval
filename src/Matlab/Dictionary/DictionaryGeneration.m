@@ -24,3 +24,4 @@ end
 
 %dataStartIndex = 95040;            %   80%
 dataStartIndex = 120001;            %   50%
+dataEndIndex = 160000;
