@@ -29,3 +29,4 @@ dataEndIndex = 160000;
 Dictionary.X = zeros(size(NetInput, 1), size(NetInput, 2), size(NetInput, 3), (dataEndIndex - dataStartIndex));
 for i = dataStartIndex:dataEndIndex
     Dictionary.X(:, :, :, i - dataStartIndex + 1) = NetInput(:, :, :, i);
+end
