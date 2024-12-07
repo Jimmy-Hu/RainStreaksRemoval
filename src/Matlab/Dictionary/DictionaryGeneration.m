@@ -32,3 +32,4 @@ for i = dataStartIndex:dataEndIndex
 end
 
 Dictionary.Y = zeros(size(NetDesiredOutput, 1), size(NetDesiredOutput, 2), size(NetDesiredOutput, 3), (dataEndIndex - dataStartIndex));
+for i = dataStartIndex:dataEndIndex
