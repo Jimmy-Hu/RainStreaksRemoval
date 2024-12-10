@@ -34,3 +34,4 @@ end
 Dictionary.Y = zeros(size(NetDesiredOutput, 1), size(NetDesiredOutput, 2), size(NetDesiredOutput, 3), (dataEndIndex - dataStartIndex));
 for i = dataStartIndex:dataEndIndex
     Dictionary.Y(:, :, :, i - dataStartIndex + 1) = NetInput(:, :, :, i) - NetDesiredOutput(:, :, :, i);
+end
