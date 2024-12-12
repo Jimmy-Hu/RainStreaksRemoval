@@ -36,3 +36,4 @@ for i = dataStartIndex:dataEndIndex
     Dictionary.Y(:, :, :, i - dataStartIndex + 1) = NetInput(:, :, :, i) - NetDesiredOutput(:, :, :, i);
 end
 
+save("Dictionary.mat", "Dictionary");
