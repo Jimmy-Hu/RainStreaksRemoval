@@ -11,3 +11,4 @@ There are several parts in the file "main.m".
 1) Parameter settings
 2) The main part of the implementation: including file input / output operations and processing.
 3) Several helper functions:
+   singleImageDerain function: Performing derain calculation in V channel, including block-based DCT, calling derain function and block-based IDCT.
