@@ -14,3 +14,4 @@ There are several parts in the file "main.m".
    singleImageDerain function: Performing derain calculation in V channel, including block-based DCT, calling derain function and block-based IDCT.
    derain function: Performing derain calculation for each block with dictionary-based weighted sum (DBWS) process.
    getOffset2 function: Calculating weighted sum
+   getOffset1 function: [unused] the implementation of nearest neighbor code-word selection.
