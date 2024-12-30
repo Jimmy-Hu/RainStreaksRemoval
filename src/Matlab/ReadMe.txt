@@ -16,3 +16,4 @@ There are several parts in the file "main.m".
    getOffset2 function: Calculating weighted sum
    getOffset1 function: [unused] the implementation of nearest neighbor code-word selection.
 
+There are also PSNRcalculation.m and SSIMcalculation.m available for the references to PSNR and SSIM calculations.
