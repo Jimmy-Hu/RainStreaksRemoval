@@ -20,3 +20,4 @@ There are also PSNRcalculation.m and SSIMcalculation.m available for the referen
 
 There are both Matlab & C++ implementations available. The part of C++ implementation is made with C++20 code. If you want to check the C++ version, please visit Github: https://github.com/Jimmy-Hu/TinyDIP/blob/main/test/dct2Test3.cpp
 
+If you have any further question, please contact Jimmy Hu (s103360021@gmail.com). Thank you.
