@@ -25,3 +25,4 @@ If you have any further question, please contact Jimmy Hu (s103360021@gmail.com)
 
 Chinese:
 
+請安裝MATLAB Version: 9.11.0.1837725 (R2021b) Update 2，且須包含Image Processing Toolbox, Parallel Computing Toolbox, Signal Processing Toolbox等工具。
