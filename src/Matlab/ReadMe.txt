@@ -28,3 +28,4 @@ Chinese:
 請安裝MATLAB Version: 9.11.0.1837725 (R2021b) Update 2，且須包含Image Processing Toolbox, Parallel Computing Toolbox, Signal Processing Toolbox等工具。
 
 本論文實作包含Matlab與C++版本，本資料夾包含Matlab版程式碼，主程式為main.m（可試著直接執行，對於1.bmp圖檔進行去雨處理，輸出結果放置於Output資料夾），其內容包含：
+1) 參數設定
