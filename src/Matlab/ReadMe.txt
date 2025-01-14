@@ -31,3 +31,4 @@ Chinese:
 1) 參數設定
 2) 主程式：處理檔案讀取、處理後存檔動作。
 3) 副程式：
+   singleImageDerain function：對單一影像（V channel）進行去雨處理，包含影像切割、DCT、去雨（derain function）、IDCT與拼合輸出。
