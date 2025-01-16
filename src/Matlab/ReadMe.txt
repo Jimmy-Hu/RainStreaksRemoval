@@ -33,3 +33,4 @@ Chinese:
 3) 副程式：
    singleImageDerain function：對單一影像（V channel）進行去雨處理，包含影像切割、DCT、去雨（derain function）、IDCT與拼合輸出。
    derain function：對每一區塊進行dictionary-based weighted sum (DBWS) process
+   getOffset2 function：計算weighted sum
