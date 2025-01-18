@@ -35,3 +35,4 @@ Chinese:
    derain function：對每一區塊進行dictionary-based weighted sum (DBWS) process
    getOffset2 function：計算weighted sum
    getOffset1 function：[未使用]Nearest Neighbor Code-word Selection方法實作。
+
