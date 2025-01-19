@@ -36,3 +36,4 @@ Chinese:
    getOffset2 function：計算weighted sum
    getOffset1 function：[未使用]Nearest Neighbor Code-word Selection方法實作。
 
+另外，亦附上PSNRcalculation.m及SSIMcalculation.m檔案，供PSNR與SSIM計算需求之參考。
