@@ -40,3 +40,4 @@ Chinese:
 
 C++版本採用C++20所撰寫，程式碼放置於Github：https://github.com/Jimmy-Hu/TinyDIP/blob/main/test/dct2Test3.cpp
 
+有問題請聯絡Jimmy Hu (s103360021@gmail.com)。
