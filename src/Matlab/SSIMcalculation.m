@@ -1,1 +1,2 @@
 % SSIM calculation
+clear all;
