@@ -5,3 +5,4 @@ clc;
 set(groot,'defaultFigureVisible','on');
 com.mathworks.mlservices.MLCommandHistoryServices.removeAll;
 
+VideoLength = 100;
