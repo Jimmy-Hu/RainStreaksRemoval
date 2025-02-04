@@ -7,3 +7,4 @@ com.mathworks.mlservices.MLCommandHistoryServices.removeAll;
 
 VideoLength = 100;
 
+for DataIndex = 1:2
