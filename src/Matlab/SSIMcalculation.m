@@ -11,3 +11,4 @@ for DataIndex = 1:2
     SSIM_result = zeros(1, VideoLength);
     for LoopNumberForLoadingAllFrames = 1:VideoLength
         InputFileName = sprintf("%s%d%s%d%s", "./", DataIndex, "/", LoopNumberForLoadingAllFrames, ".bmp");
+        if (isfile(InputFileName) == false)
