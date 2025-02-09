@@ -13,3 +13,4 @@ for DataIndex = 1:2
         InputFileName = sprintf("%s%d%s%d%s", "./", DataIndex, "/", LoopNumberForLoadingAllFrames, ".bmp");
         if (isfile(InputFileName) == false)
             disp(InputFileName + "File not found!");
+            break;
