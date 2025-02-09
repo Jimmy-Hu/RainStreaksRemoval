@@ -12,3 +12,4 @@ for DataIndex = 1:2
     for LoopNumberForLoadingAllFrames = 1:VideoLength
         InputFileName = sprintf("%s%d%s%d%s", "./", DataIndex, "/", LoopNumberForLoadingAllFrames, ".bmp");
         if (isfile(InputFileName) == false)
+            disp(InputFileName + "File not found!");
