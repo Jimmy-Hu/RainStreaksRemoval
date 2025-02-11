@@ -14,3 +14,4 @@ for DataIndex = 1:2
         if (isfile(InputFileName) == false)
             disp(InputFileName + "File not found!");
             break;
+        end
