@@ -15,3 +15,4 @@ for DataIndex = 1:2
             disp(InputFileName + "File not found!");
             break;
         end
+        image = imread(InputFileName);
