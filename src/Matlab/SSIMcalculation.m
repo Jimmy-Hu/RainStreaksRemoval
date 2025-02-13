@@ -16,3 +16,4 @@ for DataIndex = 1:2
             break;
         end
         image = imread(InputFileName);
+        
