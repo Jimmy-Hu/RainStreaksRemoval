@@ -17,3 +17,4 @@ for DataIndex = 1:2
         end
         image = imread(InputFileName);
         
+        GroundTruthFileName = sprintf("%s%d%s", "./../InputImages/GroundTruthImages/", DataIndex, ".png");
