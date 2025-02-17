@@ -20,3 +20,4 @@ for DataIndex = 1:2
         GroundTruthFileName = sprintf("%s%d%s", "./../InputImages/GroundTruthImages/", DataIndex, ".png");
         if (isfile(GroundTruthFileName) == false)
             disp(GroundTruthFileName + "File not found!");
+            break;
