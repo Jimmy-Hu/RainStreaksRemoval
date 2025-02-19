@@ -21,3 +21,4 @@ for DataIndex = 1:2
         if (isfile(GroundTruthFileName) == false)
             disp(GroundTruthFileName + "File not found!");
             break;
+        end
