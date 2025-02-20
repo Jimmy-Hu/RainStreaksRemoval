@@ -22,3 +22,4 @@ for DataIndex = 1:2
             disp(GroundTruthFileName + "File not found!");
             break;
         end
+        imageGroundTruth = imread(GroundTruthFileName);
