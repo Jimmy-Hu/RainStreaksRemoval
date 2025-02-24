@@ -23,3 +23,4 @@ for DataIndex = 1:2
             break;
         end
         imageGroundTruth = imread(GroundTruthFileName);
+        
