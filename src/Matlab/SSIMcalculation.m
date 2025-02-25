@@ -24,3 +24,4 @@ for DataIndex = 1:2
         end
         imageGroundTruth = imread(GroundTruthFileName);
         
+        SSIM_result(LoopNumberForLoadingAllFrames) = ssim(image, imageGroundTruth);
