@@ -3,4 +3,4 @@ Note: Please install MATLAB Version: 9.11.0.1837725 (R2021b) Update 2 first.
 
 This folder contains the software implementation (Matlab version) of the paper.
 
-You can check (run) the file "main.m" first. The image file "1.bmp" is taken
+You can check (run) the file "main.m" first. The image file "1.bmp" is taken as
