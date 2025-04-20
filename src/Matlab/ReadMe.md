@@ -6,3 +6,5 @@ This folder contains the software implementation (Matlab version) of the paper.
 You can check (run) the file "main.m" first. The image file "1.bmp" is taken as the input image and the output result will be put in the folder "Output".
 
 There are several parts in the file "main.m".
+
+1) 
