@@ -8,3 +8,4 @@ You can check (run) the file "main.m" first. The image file "1.bmp" is taken as 
 There are several parts in the file "main.m".
 
 1) Parameter settings
+
