@@ -9,4 +9,4 @@ There are several parts in the file "main.m".
 
 1) Parameter settings
 
-2) The main part of the implementation: including
+2) The main part of the implementation: including file
