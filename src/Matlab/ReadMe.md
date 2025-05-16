@@ -11,6 +11,6 @@ There are several parts in the file "main.m".
 
 2) The main part of the implementation: including file input / output operations and processing.
 
-3) 
+3) Several
 
 
