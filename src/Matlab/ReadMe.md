@@ -13,4 +13,6 @@ There are several parts in the file "main.m".
 
 3) Several helper functions:
 
+  - singleImageDerain
+
 
