@@ -13,6 +13,6 @@ There are several parts in the file "main.m".
 
 3) Several helper functions:
 
-  - singleImageDerain function: Performing derain calculation in
+  - singleImageDerain function: Performing derain calculation in V
 
 
