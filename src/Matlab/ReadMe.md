@@ -14,5 +14,6 @@ There are several parts in the file "main.m".
 3) Several helper functions:
 
   - singleImageDerain function: Performing derain calculation in V channel, including block-based DCT, calling derain function and block-based IDCT.
+  
 
 
