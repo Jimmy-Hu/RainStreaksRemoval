@@ -17,7 +17,7 @@ There are several parts in the file "main.m".
   
   - derain function: Performing derain calculation for each block with dictionary-based weighted sum (DBWS) process.
   
-  - getOffset2
+  - getOffset2 function
 
 
 
