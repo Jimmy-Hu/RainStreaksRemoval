@@ -25,3 +25,7 @@ for DataIndex = 1:2
         imageGroundTruth = imread(GroundTruthFileName);
         
         SSIM_result(LoopNumberForLoadingAllFrames) = ssim(image, imageGroundTruth);
+    end
+    filename = "SSIM_" + DataIndex + ".xlsx";
+    writematrix(SSIM_result', filename, 'Sheet', 1, 'Range', 'A1');
+end
