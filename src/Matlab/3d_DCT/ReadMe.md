@@ -19,6 +19,7 @@ There are several parts in the file "main.m".
   
   - getOffset2 function: Calculating weighted sum
   
+  
 
 
 
