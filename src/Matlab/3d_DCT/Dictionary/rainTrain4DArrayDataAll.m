@@ -5,3 +5,4 @@ function [input, desiredOutput] = rainTrain4DArrayDataAll
 %                 of channels, and N is the number of images.
     load("./NetInputArrayAll_8_8_1.mat");
     input = NetInputArray;
+    load("./NetDesiredOutputArrayAll_8_8_1.mat");
