@@ -6,3 +6,4 @@ function [input, desiredOutput] = rainTrain4DArrayDataAll
     load("./NetInputArrayAll_8_8_1.mat");
     input = NetInputArray;
     load("./NetDesiredOutputArrayAll_8_8_1.mat");
+    desiredOutput = NetDesiredOutputArray;
